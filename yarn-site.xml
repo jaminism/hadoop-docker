@@ -24,6 +24,7 @@
       the yarn.nodemanager.local-dirs property (see below), and the roots
       of the Yarn applications' log directories is configurable with the
       yarn.nodemanager.log-dirs property (see also below).
+      test
     </description>
     <name>yarn.nodemanager.delete.debug-delay-sec</name>
     <value>600</value>
